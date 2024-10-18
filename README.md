@@ -1,6 +1,5 @@
-# Computational-Econ
+# Computational Economics
 
-# 🎂 README: Exploring the Cake Eating Problem in Computational Economics
 
 ## 🎯 Goal of Economic Research
 The primary objective of economic research is to uncover statistical relationships 📊 and leverage these insights to improve the world 🌍. Economists typically have a broad range of interests, allowing them to explore various facets of economic behavior and policy.
